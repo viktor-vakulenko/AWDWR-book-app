@@ -55,7 +55,6 @@ config/google_application_credentials.json
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 .idea/
-mamopay-backend.iml
 
 # CMake
 cmake-build-*/
