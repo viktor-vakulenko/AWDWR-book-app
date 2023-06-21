@@ -9,7 +9,7 @@
 Product.delete_all
 # . . .
 Product.create!(
-  title: 'Build Chatbot Interactions',
+  title: 'Build Chatbot Interactionsw',
   description: %{<p>
       <em>Responsive, Intuitive Interfaces with Ruby</em>
       The next step in the evolution of user interfaces is here.
